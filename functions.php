@@ -1,5 +1,6 @@
 <?php
-
+    //ACF Fields Plugin
+    require get_template_directory() . '/inc/acf-fields.php';
 
     // Importando o arquivo do Customizer
     require get_template_directory() . '/inc/customizer.php';
