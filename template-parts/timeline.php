@@ -9,8 +9,8 @@
 
 <div id="timeline-1" class="timeline-container">
     <div class="timeline-header">
-        <h2><?php echo get_theme_mod('set_section_1_titulo');?></h2>
-        <h3><?php echo get_theme_mod('set_section_1_subtitulo');?></h3>
+        <h2 class="timeline-header__title"><?php echo get_theme_mod('set_section_1_titulo');?></h2>
+        <h3 class="timeline-header__subtitle"><?php echo get_theme_mod('set_section_1_subtitulo');?></h3>
     </div>
     <div class="timeline">
         <?php if ($the_content->have_posts()) : ?>
