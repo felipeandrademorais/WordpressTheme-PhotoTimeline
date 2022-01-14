@@ -2,6 +2,7 @@
     $args = array(
         'post_status'    => 'publish',
         'post_type'      => 'timeline',
+        'posts_per_page' => '-1',
     );
 
     $the_content = new WP_Query($args);
