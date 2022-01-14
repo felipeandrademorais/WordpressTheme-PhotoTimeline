@@ -29,5 +29,5 @@
 </div>
 
 <div class="demo-footer">
-    <a href="http://www.turkishnews.com/Ataturk/life.htm">Felipe Morais</a>
+    <p style="font-family:'Rubik'">Desenvolvido por <a href="http://sobre.felipemorais.info/">Felipe Morais</a></p>    
 </div>
