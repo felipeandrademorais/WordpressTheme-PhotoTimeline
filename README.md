@@ -11,7 +11,16 @@ To use this theme, you must be inserted the theme in WP-content/themes in WordPr
 
 After, activate theme in WordPress dashboard.
 
+In WordPress dash you can insert photos on the Timeline menu.
+In custumizer you can insert/change Title and subtitle of the page.
+
 *OBS:*Images not included;
+
+## Required Plugin
+
+This theme uses ACF Plugin; 
+
+[Get ACF Plugin](https://br.wordpress.org/plugins/advanced-custom-fields/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
